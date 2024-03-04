@@ -1,1 +1,1 @@
-# fastea-website
+# landing-template
